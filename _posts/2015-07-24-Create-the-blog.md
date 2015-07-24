@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Create the blog by jekyll!"
+title:  "Create the blog by jekyll"
 date:   2015-07-24 16:51:56
 categories: jekyll
 ---
 
-#install ruby
 1.Download ruby installer from http://rubyinstaller.org/downloads/.
 
 2.Download ruby devkit from http://rubyinstaller.org/downloads/.
@@ -14,17 +13,17 @@ categories: jekyll
 
 4.Unzip ruby devkit to c:\rubydevkit.
 
-5.execute the commands:
+5.Execute the commands:
 
 		cd c:\rubydevkit	
 		ruby dk.rb init
 		ruby dk.rb install
 
-6.install jekyll
+6.Install jekyll
 
 		gem install jekyll
 
-7.create the blog and commit to github
+7.Create the blog and commit to github
 		
 		F:
 		mkdir F:\github
