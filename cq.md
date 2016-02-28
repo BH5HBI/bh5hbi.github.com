@@ -54,4 +54,5 @@ permalink: /CQ/
 #QSO History
 	Index 	Date			Time	Mode	Frequency	CallSign	Send RST	Recv RST
 	1.	  BJT 2016-2-27		19:28	CW		7006		DS4APB		599			599
+	2.	  
 
