@@ -4,7 +4,7 @@ title: CQ
 permalink: /CQ/
 ---
 
-#Morse Runner History#
+#Morse Runner History
 
 	2016-02-27 BH5HBI 100 89 [C07CF67B]
 	2016-02-27 BH5HBI 97 87 [3936997A]
@@ -52,7 +52,7 @@ permalink: /CQ/
 	2015-07-22 BH5HBI 1 1 [C758F7EF]
 	2015-07-21 BH5HBI 3 3 [E2AD3128]
 
-#QSO History#
+#QSO History
 
 	Index 	Date			Time	Mode	Frequency	CallSign	Send RST	Recv RST
 	1.	  BJT 2016-2-27		19:28	CW		7006		DS4APB		599			599
